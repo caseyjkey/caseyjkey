@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caseyjkey
 - 👀 I’m interested in artificial intelligence, web3, and the internet of things.
 - 🌱 I’m currently learning about recurrent neural networks and Kylin.
-- 🙏 I’m looking to collaborate on hackathon projects.
+- 🙏 I’m looking to collaborate on scalable web applications.
 - 📫 Contact me at https://keycasey.com
 
 <!---
