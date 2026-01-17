@@ -1,94 +1,41 @@
-- 👋 Hi, I’m Casey Key.
-- 👀 I’m interested in artificial intelligence, web3, and the internet of things.
-- 🌱 I’m currently learning about PostgreSQL, recurrent neural networks, Kafka and Kylin.
-- 🙏 I’m looking to collaborate on real-time, event-driven web applications with performance scaling.
-- 📫 Contact me at https://keycasey.com
-<h3 align="left">Languages and Tools:</h3>
+# Hi, I'm Casey 👋 
+
+**Software Engineer | High-Performance Systems | ML & AI Architect**
+
+I build at the intersection of low-level performance and intelligent systems. From optimizing **CUDA kernels** to architecting production-ready **event-driven applications**, I focus on code that is scalable, readable, and impactful.
+
+---
+
+### 🛠 Technical Pillars
+
+| Pillar | Key Projects | Stack & Tools |
+| :--- | :--- | :--- |
+| **High-Performance** | [CUDA & Parallel Systems](https://github.com/caseyjkey/CUDA-OpenMP-MPI-Implementations) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25"/> |
+| **AI & ML** | [Deep Learning from Scratch](https://github.com/caseyjkey/Deep-Learning-From-Scratch) | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> |
+| **Production Web** | [Spirit Beads Backend](https://github.com/caseyjkey/spirit-beads-backend) | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="25"/> |
+| **Cloud Native** | [iOS AWS Amplify App](https://github.com/caseyjkey/iOS-AWS-Amplify-App) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25"/> |
+
+---
+
+### 📂 Specialized Hubs (Monorepos)
+* 🧠 **[OS Internals & IPC](https://github.com/caseyjkey/OS-Internals-and-IPC):** Deep dives into CPU scheduling, memory management, and concurrency.
+* 🌐 **[Decentralized Apps](https://github.com/caseyjkey/Decentralized-Application-Development):** Web3, IPFS, and blockchain scalability experimentation.
+* 🏔 **[Civic Tech](https://github.com/caseyjkey/Civic-Tech-for-Indigenous-Communities):** Data advocacy tools built for indigenous community impact.
+
+---
+
+### 🌱 Currently Mastering
+> I am looking to collaborate on **real-time, event-driven web applications** with extreme performance scaling.
+
+* **Database Engineering:** Optimizing **PostgreSQL** & distributed caching with **Kafka**.
+* **Advanced AI:** Architecting Recurrent Neural Networks (RNNs) for time-series data.
+* **Big Data:** Implementing OLAP scaling with **Kylin**.
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/caseyjkey/) | [Portfolio & Blog](https://keycasey.com) | [Email](mailto:casey@thebeadedcase.com)
+
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
-    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=caseyjkey&show_icons=true&theme=tokyonight" alt="Casey's GitHub stats" />
 </p>
-<!---
-caseyjkey/caseyjkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
