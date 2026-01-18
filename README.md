@@ -10,10 +10,10 @@ I build at the intersection of low-level performance and intelligent systems. Fr
 
 | Pillar | Key Projects | Stack & Tools |
 | :--- | :--- | :--- |
-| **High-Performance** | [CUDA & Parallel Systems](https://github.com/caseyjkey/CUDA-OpenMP-MPI-Implementations) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25"/> |
-| **AI & ML** | [Deep Learning from Scratch](https://github.com/caseyjkey/Deep-Learning-From-Scratch) | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> |
-| **Production Web** | [Spirit Beads Backend](https://github.com/caseyjkey/spirit-beads-backend) | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="25"/> |
-| **Cloud Native** | [iOS AWS Amplify App](https://github.com/caseyjkey/iOS-AWS-Amplify-App) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25"/> |
+| **High-Performance** | [CUDA & Parallel Systems](https://github.com/caseyjkey/CUDA-OpenMP-MPI-Implementations) | [![C++](https://img.shields.io/badge/--3178C6?logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=white)](https://go.dev/) [![Linux](https://img.shields.io/badge/--FCC624?logo=linux&logoColor=black)](https://www.linux.org/) |
+| **AI & ML** | [Deep Learning from Scratch](https://github.com/caseyjkey/Deep-Learning-From-Scratch) | [![PyTorch](https://img.shields.io/badge/--EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/--007396?logo=openjdk&logoColor=white)](https://www.java.com/) |
+| **Production Web** | [Spirit Beads Backend](https://github.com/caseyjkey/spirit-beads-backend) | [![Django](https://img.shields.io/badge/--092E20?logo=django&logoColor=white)](https://www.djangoproject.com/) [![PostgreSQL](https://img.shields.io/badge/--4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![GraphQL](https://img.shields.io/badge/--E10098?logo=graphql&logoColor=white)](https://graphql.org/) |
+| **Cloud Native** | [iOS AWS Amplify App](https://github.com/caseyjkey/iOS-AWS-Amplify-App) | [![AWS](https://img.shields.io/badge/--232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/--2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Swift](https://img.shields.io/badge/--F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/) |
 
 ---
 
@@ -27,15 +27,13 @@ I build at the intersection of low-level performance and intelligent systems. Fr
 ### 🌱 Currently Mastering
 > I am looking to collaborate on **real-time, event-driven web applications** with extreme performance scaling.
 
-* **Database Engineering:** Optimizing **PostgreSQL** & distributed caching with **Kafka**.
+* **Database Engineering:** Optimizing **PostgreSQL** & distributed messaging with **Kafka**.
 * **Advanced AI:** Architecting Recurrent Neural Networks (RNNs) for time-series data.
 * **Big Data:** Implementing OLAP scaling with **Kylin**.
 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/caseyjkey/) | [Portfolio & Blog](https://keycasey.com) | [Email](mailto:casey@thebeadedcase.com)
+[LinkedIn](https://www.linkedin.com/in/keycasey/) | [Website](https://keycasey.com) | [Email](mailto:hey@keycasey.com)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caseyjkey&show_icons=true&theme=tokyonight" alt="Casey's GitHub stats" />
-</p>
+![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseyjkey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
