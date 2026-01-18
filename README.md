@@ -1,16 +1,16 @@
 <div align="center">
 
-# Casey Key 👋
+# Casey Key 🔑
 **Software Engineer | Distributed Systems | High-Performance Specialist**
 
 ---
 
-### "Enterprise-scale engineering for community-driven impact."
-*Applying high-availability standards from **Amazon, Capital One, Oracle, and Salesforce** to modern digital solutions.*
+### "I build enterprise-scale engineering for community-driven impact."
+*Applying high-availability standards from my time at **Amazon, Capital One, Oracle, and currently Salesforce.***
 
 ---
 
-| 📍 Mission | 🏢 Core Experience | 🏎️ Passion |
+| 📍 My Mission | 🏢 Core Experience | 🏎️ My Passion |
 | :--- | :--- | :--- |
 | **Financial & EdTech** | **Distributed Systems** | **Muscle Cars & Audio** |
 | [Scholarships Plus](https://github.com/caseyjkey/scholarships-plus) | **Big Tech / Fintech** | **High-Output Performance** |
@@ -21,21 +21,21 @@
   <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
 </p>
 
-### ⚡ Enterprise Track Record
-I build **highly-available, global-scale** applications. My work in Big Tech ensures that even my modular personal apps are architected for resilience and high-volume traffic.
+### ⚡ How I Build
+I focus on **highly-available, global-scale** applications. My background in Big Tech ensures that even my modular personal projects are architected for resilience and high-volume traffic.
 
 ---
 
-* **Scalability & Architecture:** Currently building and maintaining high-volume web services at **Salesforce**; previously at **Amazon**.
-* **Fintech Rigor:** Architected secure, scalable financial platforms at **Capital One**.
-* **Database & Infrastructure:** Developed deep expertise in enterprise data systems at **Oracle**.
+* **Scalability & Architecture:** I currently build and maintain high-volume web services at **Salesforce**; previously, I did the same at **Amazon**.
+* **Fintech Rigor:** I've architected secure, scalable financial platforms during my time at **Capital One**.
+* **Database & Infrastructure:** I developed deep expertise in enterprise data systems while at **Oracle**.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
 </p>
 
-### 🛠️ The Technical Engine
-Precision-tuned stacks for performance, from low-level C++ to global cloud deployments.
+### 🛠️ My Technical Engine
+I tune my stacks for performance, ranging from low-level C++ to global cloud deployments.
 
 ---
 
@@ -51,16 +51,16 @@ Precision-tuned stacks for performance, from low-level C++ to global cloud deplo
 </p>
 
 ### 📂 Specialized Hubs
-* 🧠 **[OS Internals & IPC](https://github.com/caseyjkey/OS-Internals-and-IPC):** The "under-the-hood" work—CPU scheduling, memory management, and concurrency.
-* 🏔 **[Civic Tech](https://github.com/caseyjkey/Civic-Tech-for-Indigenous-Communities):** Building for data advocacy and community impact.
-* 🎵 **[Digital Media](https://soundcloud.com/trk-daddy-key):** Exploring the intersection of AI, high-end audio, and digital experience.
+* 🧠 **[OS Internals & IPC](https://github.com/caseyjkey/OS-Internals-and-IPC):** My "under-the-hood" explorations into CPU scheduling, memory management, and concurrency.
+* 🏔 **[Civic Tech](https://github.com/caseyjkey/Civic-Tech-for-Indigenous-Communities):** Tools I'm building for data advocacy and community impact.
+* 🎵 **[Digital Media](https://soundcloud.com/trk-daddy-key):** My research into the intersection of AI, high-end audio, and digital experience.
 
 ---
 
-### 🚦 Current Gear (Focus)
-- ⚡ **Scaling:** Mastering real-time data orchestration with **Kafka** and **Kylin**.
-- 🧪 **AI Research:** High-volume time-series forecasting using RNNs.
-- 🏁 **Mission:** Proving that community tools deserve the same engineering rigor as Enterprise software.
+### 🚦 Current Gear (What I'm focused on)
+- ⚡ **Scaling:** I'm perfecting real-time data orchestration with **Kafka** and **Kylin**.
+- 🧪 **AI Research:** I'm working on high-volume time-series forecasting using RNNs.
+- 🏁 **Mission:** I'm out to prove that community tools deserve the same engineering rigor as Enterprise software.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
