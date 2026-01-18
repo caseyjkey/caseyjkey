@@ -1,56 +1,73 @@
-# Hi, I'm Casey 👋 
+<div align="center">
 
-**Software Engineer | High-Performance Systems | ML & AI Architect**
-
-I build at the intersection of low-level performance and intelligent systems. From optimizing **CUDA kernels** to architecting production-ready **event-driven applications**, I focus on code that is scalable, readable, and impactful.
+# Casey Key 👋
+**Software Engineer | Distributed Systems | High-Performance Specialist**
 
 ---
 
-### 🛠 Technical Pillars
+### "Enterprise-scale engineering for community-driven impact."
+*Applying high-availability standards from **Amazon, Capital One, Oracle, and Salesforce** to modern digital solutions.*
 
-| Pillar | Key Projects | Stack & Tools |
+---
+
+| 📍 Mission | 🏢 Core Experience | 🏎️ Passion |
 | :--- | :--- | :--- |
-| **High-Performance** | [CUDA & Parallel Systems](https://github.com/caseyjkey/CUDA-OpenMP-MPI-Implementations) | [![C++](https://img.shields.io/badge/--3178C6?logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=white)](https://go.dev/) [![Linux](https://img.shields.io/badge/--FCC624?logo=linux&logoColor=black)](https://www.linux.org/) |
-| **AI & ML** | [Deep Learning from Scratch](https://github.com/caseyjkey/Deep-Learning-From-Scratch) | [![PyTorch](https://img.shields.io/badge/--EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/--007396?logo=openjdk&logoColor=white)](https://www.java.com/) |
-| **Production Web** | [Spirit Beads Backend](https://github.com/caseyjkey/spirit-beads-backend) | [![Django](https://img.shields.io/badge/--092E20?logo=django&logoColor=white)](https://www.djangoproject.com/) [![PostgreSQL](https://img.shields.io/badge/--4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![GraphQL](https://img.shields.io/badge/--E10098?logo=graphql&logoColor=white)](https://graphql.org/) |
-| **Cloud Native** | [iOS AWS Amplify App](https://github.com/caseyjkey/iOS-AWS-Amplify-App) | [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://developer.apple.com/swift/) |
+| **Financial & EdTech** | **Distributed Systems** | **Muscle Cars & Audio** |
+| [Scholarships Plus](https://github.com/caseyjkey/scholarships-plus) | **Big Tech / Fintech** | **High-Output Performance** |
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
+</p>
+
+### ⚡ Enterprise Track Record
+I build **highly-available, global-scale** applications. My work in Big Tech ensures that even my modular personal apps are architected for resilience and high-volume traffic.
 
 ---
 
-### 📂 Specialized Hubs (Monorepos)
-* 🧠 **[OS Internals & IPC](https://github.com/caseyjkey/OS-Internals-and-IPC):** Deep dives into CPU scheduling, memory management, and concurrency.
-* 🌐 **[Decentralized Apps](https://github.com/caseyjkey/Decentralized-Application-Development):** Web3, IPFS, and blockchain scalability experimentation.
-* 🏔 **[Civic Tech](https://github.com/caseyjkey/Civic-Tech-for-Indigenous-Communities):** Data advocacy tools built for indigenous community impact.
+* **Scalability & Architecture:** Currently building and maintaining high-volume web services at **Salesforce**; previously at **Amazon**.
+* **Fintech Rigor:** Architected secure, scalable financial platforms at **Capital One**.
+* **Database & Infrastructure:** Developed deep expertise in enterprise data systems at **Oracle**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
+</p>
+
+### 🛠️ The Technical Engine
+Precision-tuned stacks for performance, from low-level C++ to global cloud deployments.
 
 ---
 
-### 🌱 Currently Mastering
-> I am looking to collaborate on **real-time, event-driven web applications** with extreme performance scaling.
+| Vertical | Lead Project | Technical Stack |
+| :--- | :--- | :--- |
+| **Professional Services** | [Service Architecture](https://github.com/caseyjkey/spirit-beads-backend) | [![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/) |
+| **Educational Access** | [Scholarships Plus](https://github.com/caseyjkey/scholarships-plus) | [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/) |
+| **Performance Computing** | [CUDA & Parallel Systems](https://github.com/caseyjkey/CUDA-OpenMP-MPI-Implementations) | [![C++](https://img.shields.io/badge/-C++-3178C6?logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) |
+| **Cloud Infrastructure** | [iOS AWS Amplify App](https://github.com/caseyjkey/iOS-AWS-Amplify-App) | [![AWS](https://img.shields.io/badge/AWS-232F3E?logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) |
 
-* **Database Engineering:** Optimizing **PostgreSQL** & distributed messaging with **Kafka**.
-* **Advanced AI:** Architecting Recurrent Neural Networks (RNNs) for time-series data.
-* **Big Data:** Implementing OLAP scaling with **Kylin**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
+</p>
+
+### 📂 Specialized Hubs
+* 🧠 **[OS Internals & IPC](https://github.com/caseyjkey/OS-Internals-and-IPC):** The "under-the-hood" work—CPU scheduling, memory management, and concurrency.
+* 🏔 **[Civic Tech](https://github.com/caseyjkey/Civic-Tech-for-Indigenous-Communities):** Building for data advocacy and community impact.
+* 🎵 **[Digital Media](https://soundcloud.com/trk-daddy-key):** Exploring the intersection of AI, high-end audio, and digital experience.
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/keycasey/) | [Website](https://keycasey.com) | [Email](mailto:hey@keycasey.com)
+### 🚦 Current Gear (Focus)
+- ⚡ **Scaling:** Mastering real-time data orchestration with **Kafka** and **Kylin**.
+- 🧪 **AI Research:** High-volume time-series forecasting using RNNs.
+- 🏁 **Mission:** Proving that community tools deserve the same engineering rigor as Enterprise software.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
+</p>
 
 ### 📈 GitHub Analytics
 
-<!-- commenting until stats service is back up.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caseyjkey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=38bdf8&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseyjkey&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&border_color=38bdf8&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-</p>
--->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caseyjkey&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=false&border_color=38bdf8&radius=10" alt="Contribution Graph" width="95%"/>
 </p>
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caseyjkey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
--->
