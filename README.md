@@ -57,17 +57,11 @@ I tune my stacks for performance, ranging from low-level C++ to global cloud dep
 
 ---
 
-### 🚦 Current Gear (What I'm focused on)
+### 🚦 Driving Toward
 - ⚡ **Scaling:** I'm perfecting real-time data orchestration with **Kafka** and **Kylin**.
 - 🧪 **AI Research:** I'm working on high-volume time-series forecasting using RNNs.
-- 🏁 **Mission:** I'm out to prove that community tools deserve the same engineering rigor as Enterprise software.
+- 🏁 **Impact:** I'm out to prove that community tools deserve the same engineering rigor as Enterprise software.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/caseyjkey/caseyjkey/main/assets/rule.gif" width="100%">
-</p>
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caseyjkey&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=false&border_color=38bdf8&radius=10" alt="Contribution Graph" width="95%"/>
 </p>
